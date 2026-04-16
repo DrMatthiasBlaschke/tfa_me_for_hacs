@@ -1,7 +1,7 @@
 """Constants for the TFA.me station integration."""
 
-DOMAIN = "tfa_me"
-DEFAULT_STATION_NAME = "TFA.me Station"
+DOMAIN = "tfa_me_hacs"
+DEFAULT_STATION_NAME = "TFA.me Station HACS"
 CONF_NAME_WITH_STATION_ID = "name_with_station_id"
 LOCAL_POLL_INTERVAL = 60
 

@@ -1,6 +1,6 @@
 {
-  "domain": "tfa_me",
-  "name": "TFA.me station",
+  "domain": "tfa_me_hacs",
+  "name": "TFA.me station HACS",
   "codeowners": ["@DrMatthiasBlaschke"],
   "config_flow": true,
   "dependencies": [],
@@ -14,5 +14,5 @@
       "type": "_tfa_me._tcp.local."
     }
   ],
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
