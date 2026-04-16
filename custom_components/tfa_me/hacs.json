@@ -1,0 +1,9 @@
+{
+  "name": "TFA.me custom integration for HACS (Beta & Pre-release version)",
+  "description": "An integration for TFA.me stations/gateways for Home Assistant",
+  "domain": "tfa_me",
+  "repository": "https://github.com/DrMatthiasBlaschke/tfa_me_for_hacs",
+  "documentation": "https://github.com/DrMatthiasBlaschke/tfa_me_for_hacs",
+  "requirements": ["tfa-me-ha-local==1.0.6"],
+  "codeowners": ["@DrMatthiasBlaschke"]
+}
